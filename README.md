@@ -1,4 +1,4 @@
-# 2024 and 2025 Research in Financial Mathematics - Kaden Chen
+# 2024 and 2025 Research in Mathematical Finance - Kaden Chen
 
 
 This repository compiles the research notes, findings, and implementation code from my summer internships in 2024 and 2025 at Worcester Polytechnic Institute. The entries below are in Chronological Order.
